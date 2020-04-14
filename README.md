@@ -43,7 +43,7 @@
 ```
 # 项目安装
 
-git clone http://git.jimuitech.com/egg/repair-web.git
+git clone https://github.com/yangdengcheng/vue-typescript-mini-template.git
 
 # 进入目录
 
