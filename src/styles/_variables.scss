@@ -1,0 +1,14 @@
+// Sidebar
+$sideBarWidth: 210px;
+$subMenuBg:#1f2d3d;
+$subMenuHover:#001528;
+$subMenuActiveText: #6c6c6c;
+$menuBg:#EC6D20;
+$menuText:#a1a1a1;
+$menuActiveText:#EC6D20; // Also see settings.sidebarTextTheme
+
+:export {
+  menuBg: $menuBg;
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+}
